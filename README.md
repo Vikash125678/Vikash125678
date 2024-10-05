@@ -8,7 +8,7 @@ Data Analysis: Excel
 Data Visualization: Power BI
 Databases: SQL, MySQL
 🚀 What I’m Currently Working On
-Enhancing my skills in advanced data visualization using Power BI and Tableau.
+Enhancing my skills in advanced data visualization using Power BI.
 Learning more about machine learning for data analysis.
 🛠️ Projects
 Digital Music store Data analysis: Comprehensive analysis of a digital music store using SQL to extract insights on sales, customer behavior, and inventory management.
