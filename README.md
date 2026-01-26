@@ -46,12 +46,15 @@ This background gives me a **strong understanding of backend systems, data pipel
 - **HR Analytics – Workforce, Attrition & Risk Analysis**  
   End-to-end analytics project analyzing workforce structure, attrition drivers, and employee risk factors using SQL and Power BI.  
   Focused on actionable HR insights and data-driven recommendations.
+  
+
+- **Retail Sales Performance Analysis**
+  SQL-based analysis evaluating sales performance, customer purchasing patterns, and category-wise revenue contribution using KPIs..
+
 
 - **Superstore Sales Dashboard**  
   Power BI dashboard analyzing sales, profit, and regional trends to support business decision-making.
-
-- **Digital Music Store Analysis**  
-  SQL-based analysis extracting insights on customer behavior, sales performance, and inventory trends.
+  
 
 👉 Check my repositories for complete project details, dashboards, and documentation.
 
