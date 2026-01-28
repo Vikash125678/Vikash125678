@@ -1,11 +1,11 @@
 # Hi, I’m Vikash Chandra 👋  
 
-🎯 **Aspiring Data Analyst | HR & Business Analytics | MS-Excel | SQL | Power BI |Automation Background**
+🎯 **Data Analyst | HR & Business Analytics | MS Excel | SQL | Power BI**
 
-I am an aspiring Data Analyst with **2+ years of professional experience** across **cloud operations, workflow automation, and analytics**.  
-I have worked at **HCLTech**, where I supported enterprise clients by managing automated data workflows and later transitioned my focus toward **data analysis and business intelligence**.
+I am a Data Analyst with **2+ years of professional experience at HCLTech**, specializing in **data analysis, reporting, and business intelligence**. I work with structured datasets to deliver **clear insights, well-designed dashboards, and actionable recommendations** that support business and HR decision-making.
 
-I enjoy converting raw data into **clear insights, dashboards, and actionable recommendations** that support business decision-making.
+I enjoy working across the full analytics lifecycle—**data cleaning, transformation, analysis, and visualization**—with a strong focus on **accuracy, clarity, and business impact**.
+
 
 ---
 
