@@ -10,17 +10,17 @@ I enjoy converting raw data into **clear insights, dashboards, and actionable re
 ---
 
 ## 💼 Professional Background
-- **Cloud Support Analyst – HCLTech**  
-  - Supported end-to-end IaaS operations for enterprise clients  
-  - Monitored systems, resolved incidents, and ensured SLA compliance  
-  - Collaborated with cross-functional teams to maintain system reliability  
 
-- **Automation Scheduler (Autosys) – HCLTech**  
-  - Managed and monitored batch job scheduling using **Autosys**  
-  - Automated data workflows to ensure timely data processing and reporting  
-  - Performed job performance analysis, failure handling, and root cause analysis  
+### Data Analyst — HCLTech
 
-This background gives me a **strong understanding of backend systems, data pipelines, and automation**, which I now apply to analytics projects.
+- Analyzed datasets using Excel, SQL, and Power BI  
+- Cleaned, validated, and transformed data using Power Query  
+- Built interactive dashboards and reports for workforce and business analysis  
+- Defined and tracked KPIs aligned with reporting requirements  
+- Performed data quality checks prior to publishing reports  
+- Collaborated with stakeholders to translate requirements into analytical outputs  
+
+This experience gives me a **strong understanding of data quality, analytical workflows, and business reporting**, which I apply to deliver reliable and insight-driven analytics solutions.
 
 ---
 
@@ -64,11 +64,6 @@ This background gives me a **strong understanding of backend systems, data pipel
 - Advanced **Power BI dashboarding and storytelling**  
 - Performance-optimized SQL querying  
 - Fundamentals of **predictive analytics** and data-driven forecasting  
-
----
-
-## 🎯 Career Objective
-Seeking opportunities as a **Data Analyst / Junior Data Analyst**, where I can combine my **automation, data handling, and analytics skills** to deliver meaningful business insights and support strategic decisions.
 
 ---
 
