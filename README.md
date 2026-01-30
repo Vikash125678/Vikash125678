@@ -1,34 +1,27 @@
 # Hi, I’m Vikash Chandra 👋  
 
-🎯 **Data Analyst | MS Excel | SQL | Power BI**
+🎯 **Aspiring Data Analyst | HR & Business Analytics | SQL | Power BI | Automation Background**
 
-I am a Data Analyst with **2+ years of professional experience at HCLTech**, specializing in **data analysis, reporting, and business intelligence**. I work with structured datasets to deliver **clear insights, well-designed dashboards, and actionable recommendations** that support business and HR decision-making.
+I am an aspiring Data Analyst with **2+ years of professional experience** across **cloud operations, workflow automation, and analytics**.  
+I have worked at **HCLTech**, where I supported enterprise clients by managing automated data workflows and later transitioned my focus toward **data analysis and business intelligence**.
 
-I enjoy working across the full analytics lifecycle—**data cleaning, transformation, analysis, and visualization**—with a strong focus on **accuracy, clarity, and business impact**.
-
+I enjoy converting raw data into **clear insights, dashboards, and actionable recommendations** that support business decision-making.
 
 ---
 
 ## 💼 Professional Background
+- **Cloud Support Analyst – HCLTech**  
+  - Supported end-to-end IaaS operations for enterprise clients  
+  - Monitored systems, resolved incidents, and ensured SLA compliance  
+  - Collaborated with cross-functional teams to maintain system reliability  
 
-### Data Analyst — HCLTech
+- **Automation Scheduler (Autosys) – HCLTech**  
+  - Managed and monitored batch job scheduling using **Autosys**  
+  - Automated data workflows to ensure timely data processing and reporting  
+  - Performed job performance analysis, failure handling, and root cause analysis  
 
-- Analyzed datasets using Excel, SQL, and Power BI  
-- Cleaned, validated, and transformed data using Power Query  
-- Built interactive dashboards and reports for workforce and business analysis  
-- Defined and tracked KPIs aligned with reporting requirements  
-- Performed data quality checks prior to publishing reports  
-- Collaborated with stakeholders to translate requirements into analytical outputs  
+This background gives me a **strong understanding of backend systems, data pipelines, and automation**, which I now apply to analytics projects.
 
-This experience gives me a **strong understanding of data quality, analytical workflows, and business reporting**, which I apply to deliver reliable and insight-driven analytics solutions.
-
----
-
-## 📊 Analytics & BI Skills
-- **Data Analysis:** Excel (Pivot Tables, Power Query)  
-- **Databases:** SQL, MySQL (joins, aggregations, performance-aware queries)  
-- **Data Visualization:** Power BI (Power Query, DAX, dashboard design)  
-- **Analytics Domains:** HR Analytics, Workforce & Attrition Analysis  
 
 ---
 
