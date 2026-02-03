@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Data Analyst | MS-EXCEL | SQL | Power BI | Automation Background**
 
-I am an aspiring Data Analyst with **2+ years of professional experience** across **cloud operations, workflow automation, and analytics**.  
+I am a Data Analyst with **2+ years of professional experience** across **cloud operations, workflow automation, and analytics**.  
 I have worked at **HCLTech**, where I supported enterprise clients by managing automated data workflows and later transitioned my focus toward **data analysis and business intelligence**.
 
 I enjoy converting raw data into **clear insights, dashboards, and actionable recommendations** that support business decision-making.
