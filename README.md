@@ -10,12 +10,12 @@ I enjoy converting raw data into **clear insights, dashboards, and actionable re
 ---
 
 ## 💼 Professional Background
-- **Cloud Support Analyst – HCLTech**  
+- **Cloud Operations Analyst – HCLTech**  
   - Supported end-to-end IaaS operations for enterprise clients  
   - Monitored systems, resolved incidents, and ensured SLA compliance  
   - Collaborated with cross-functional teams to maintain system reliability  
 
-- **Automation Scheduler (Autosys) – HCLTech**  
+- **Data Operations Analyst (Autosys) – HCLTech**  
   - Managed and monitored batch job scheduling using **Autosys**  
   - Automated data workflows to ensure timely data processing and reporting  
   - Performed job performance analysis, failure handling, and root cause analysis  
